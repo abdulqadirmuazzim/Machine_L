@@ -1,5 +1,6 @@
 import numpy as np
 
+# from sklearn import preprocessing as pre
 
 inputs = [
     [1, 1, 25.5, 1, 0],
