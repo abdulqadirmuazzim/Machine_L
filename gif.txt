@@ -1,0 +1,5 @@
+The gifs for lightning animation :)
+
+"https://media4.giphy.com/media/pi9gQ5MSYMRHB5sQsx/giphy.gif",
+"https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc5MDU4dWY0OG9wY290NnVrYzFseXJwd3d0dzdjNDFxZGxjeG0yYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vd8jRsGoIOZPXoREMe/giphy.gif"
+ 
